@@ -1,0 +1,66 @@
+{
+  "result": "PASSED",
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    "Every document has all 18 required metadata fields with non-empty values",
+    "Document IDs are unique and match file names",
+    "Status values are one of approved, draft, superseded, unofficial",
+    "allowed_roles contain only the 7 defined roles; sensitivity label matches allowed_roles",
+    "H1 heading matches the title field",
+    "Every related_docs / conflicts_with / in-text document ID exists",
+    "Section numbering is sequential and every in-text 'section x.y' reference exists",
+    "Every approved document has 1,500-2,500 words",
+    "Contradiction examples are non-approved, carry a NOT AUTHORITATIVE banner and list conflicts_with",
+    "No duplicate document bodies; no duplicate or empty chunks",
+    "No contradiction-only value appears in any approved document",
+    "Every scenario's evidence text is found in its cited sources, and its role may read those sources",
+    "Every contradiction statement is found verbatim in both documents",
+    "Every canonical fact's evidence text is found in its source document"
+  ],
+  "stats": {
+    "documents": 35,
+    "approved_documents": 30,
+    "contradiction_examples": 5,
+    "approved_word_count_total": 47556,
+    "approved_word_count_min": 1508,
+    "approved_word_count_max": 1925,
+    "chunks": 322,
+    "chunk_words_min": 51,
+    "chunk_words_max": 409,
+    "chunk_words_mean": 148,
+    "qa_pairs": 245,
+    "qa_by_type": {
+      "faq": 215,
+      "workflow": 8,
+      "contradiction": 6,
+      "decision": 10,
+      "business_rule": 6
+    },
+    "rbac_tests": 241,
+    "rbac_by_result": {
+      "deny": 43,
+      "answer": 198
+    },
+    "contradictions": 20,
+    "canonical_facts": 45,
+    "docs_by_category": {
+      "Compliance": 5,
+      "Contradiction Examples": 5,
+      "Reimbursement Rules": 5,
+      "HR Policies": 5,
+      "IT Guidelines": 5,
+      "Employee Onboarding": 5,
+      "Operational Procedures": 5
+    },
+    "readable_docs_per_role": {
+      "employee": 28,
+      "hr": 35,
+      "it": 35,
+      "finance": 35,
+      "marketing": 35,
+      "project_manager": 34,
+      "product_manager": 34
+    }
+  }
+}

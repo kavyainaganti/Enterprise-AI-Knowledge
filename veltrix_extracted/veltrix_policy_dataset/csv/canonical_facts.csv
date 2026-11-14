@@ -1,0 +1,46 @@
+﻿fact_id,topic,value,source_doc_id,evidence_text,evidence_chunk_id
+F-001,Earned leave per year,18 days,HR-POL-001,18 days of earned leave,HR-POL-001-C003
+F-002,Earned leave carry-forward cap,30 days,HR-POL-001,carried forward up to a maximum balance of 30 days,HR-POL-001-C003
+F-003,Casual leave per year,8 days,HR-POL-001,8 days of casual leave,HR-POL-001-C004
+F-004,Sick leave per year,10 days,HR-POL-001,10 days of sick leave,HR-POL-001-C004
+F-005,Maternity leave,26 weeks,HR-POL-001,26 weeks of paid maternity leave,HR-POL-001-C005
+F-006,Paternity leave,10 working days within 3 months,HR-POL-001,within 3 months of the birth or adoption,HR-POL-001-C005
+F-007,Advance notice for earned leave > 3 days,7 calendar days,HR-POL-001,at least 7 calendar days in advance,HR-POL-001-C007
+F-008,Minimum office days per week,3,HR-POL-002,at least 3 days per week,HR-POL-002-C003
+F-009,Core hours,11:00 to 16:00 IST,HR-POL-002,11:00 to 16:00 IST,HR-POL-002-C002
+F-010,Home office allowance,"Rs 10,000 one time after confirmation",HR-POL-002,"one-time home office allowance of Rs 10,000",HR-POL-002-C004
+F-011,Performance review cycles,April-September and October-March,HR-POL-003,"two review cycles each year: April to September, and October to March",HR-POL-003-C002
+F-012,PIP duration,60 days (+30 once),HR-POL-003,The PIP lasts 60 days,HR-POL-003-C006
+F-013,Time-to-hire target,45 days,HR-POL-004,Time to hire (position approval to offer acceptance): 45 days,HR-POL-004-C008
+F-014,Warning validity,12 months,HR-POL-005,Warnings remain active for 12 months,HR-POL-005-C004
+F-015,Lost device reporting,Within 1 hour as P1,IT-GDL-001,within 1 hour of discovery by raising a P1 ticket,IT-GDL-001-C002
+F-016,Minimum password length,14 characters,IT-GDL-002,14 characters,IT-GDL-002-C003
+F-017,Leaver access removal,Within 24 hours,IT-GDL-002,within 24 hours of the last working day,IT-GDL-002-C005
+F-018,P1 response and resolution,15 minutes / 4 hours,IT-GDL-003,| P1 | Company-wide outage or security breach | 15 minutes | 4 hours |,IT-GDL-003-C004
+F-019,CERT-In notification,Within 6 hours,IT-GDL-003,within 6 hours of detection,IT-GDL-003-C005
+F-020,Accounting record retention,8 years,IT-GDL-004,8 years after the end of the financial year,IT-GDL-004-C004
+F-021,AI assistant log retention,90 days,IT-GDL-005,the logs are kept for 90 days,IT-GDL-005-C007
+F-022,Expense claim deadline,30 days,FIN-RMB-001,within 30 days,FIN-RMB-001-C002
+F-023,Receipt threshold,Above Rs 500,FIN-RMB-001,every expense above Rs 500,FIN-RMB-001-C002
+F-024,Metro hotel limit,"Rs 6,000 per night",FIN-RMB-001,"Rs 6,000 per night",FIN-RMB-001-C003
+F-025,Non-metro hotel limit,"Rs 4,000 per night",FIN-RMB-001,"Rs 4,000 per night",FIN-RMB-001-C003
+F-026,Domestic meals,"Rs 1,500 per day",FIN-RMB-001,"Rs 1,500 per day",FIN-RMB-001-C003
+F-027,International per diem,USD 75 per day,FIN-RMB-002,USD 75 per day,FIN-RMB-002-C005
+F-028,Business class rule,Flights > 8 hours with CFO approval,FIN-RMB-002,"Only for flights longer than 8 hours, with CFO approval",FIN-RMB-002-C003
+F-029,Relocation lump sum L4-L5,"Rs 1,00,000",FIN-RMB-003,"Rs 1,00,000",FIN-RMB-003-C002
+F-030,Learning budget,"Rs 25,000 per year",FIN-RMB-004,"Rs 25,000 per financial year",FIN-RMB-004-C002
+F-031,Corporate card monthly limit (standard),"Rs 75,000",FIN-RMB-005,"Rs 75,000",FIN-RMB-005-C002
+F-032,Petty cash float,"Rs 20,000 per office",FIN-RMB-005,"petty cash float of Rs 20,000",FIN-RMB-005-C008
+F-033,Probation length,6 months,ONB-004,Probation lasts 6 months,ONB-004-C002
+F-034,Probation notice,15 days,ONB-004,15 days' written notice,ONB-004-C005
+F-035,Accounts created before joining,2 working days,ONB-003,Default accounts created,ONB-003-C002
+F-036,Gift acceptance limit,"Rs 3,000",CMP-002,"up to Rs 3,000",CMP-002-C005
+F-037,Breach report to DPO,Within 2 hours,CMP-003,within 2 hours of discovery,CMP-003-C008
+F-038,Whistleblower acknowledgement,Within 7 days,CMP-004,Within 7 days of receipt,CMP-004-C004
+F-039,POSH inquiry completion,90 days,CMP-005,The IC completes the inquiry within 90 days,CMP-005-C005
+F-040,PO threshold,"Above Rs 25,000",OPS-001,"Above Rs 25,000",OPS-001-C002
+F-041,Three-quote threshold,"Above Rs 2,00,000",OPS-001,"Above Rs 2,00,000",OPS-001-C002
+F-042,CFO spend band,"Rs 25,00,001 to Rs 1,00,00,000",OPS-002,"| Rs 25,00,001 to Rs 1,00,00,000 | CFO |",OPS-002-C003
+F-043,Customer platform RTO/RPO,8 hours / 4 hours,OPS-003,"| Customer production platforms (Veltrix Insight, Flow, Connect) | 8 hours | 4 hours |",OPS-003-C003
+F-044,CCTV retention,30 days,OPS-004,CCTV footage is retained for 30 days,OPS-004-C004
+F-045,Policy review cycle,Every 12 months,OPS-005,at least every 12 months,OPS-005-C005

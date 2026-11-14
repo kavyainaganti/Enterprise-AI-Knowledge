@@ -1,0 +1,36 @@
+﻿doc_id,title,status,sensitivity,employee,hr,it,finance,marketing,project_manager,product_manager
+CMP-001,Anti-Bribery and Anti-Corruption Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+CMP-002,Conflict of Interest and Gifts Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+CMP-003,Data Protection and Privacy Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+CMP-004,Whistleblower and Speak-Up Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+CMP-005,Prevention of Sexual Harassment (POSH) Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+CTR-001,"Leave Policy (Version 3.0, 2023) - Superseded",superseded,internal,allow,allow,allow,allow,allow,allow,allow
+CTR-002,Pune Office Memo - Travel and Meal Limits (Unofficial),unofficial,internal,allow,allow,allow,allow,allow,allow,allow
+CTR-003,"Password Standard (Version 2.0, 2022) - Superseded",superseded,internal,allow,allow,allow,allow,allow,allow,allow
+CTR-004,Draft Note - Proposed Procurement Thresholds (Not Approved),draft,restricted,deny,allow,allow,allow,allow,allow,allow
+CTR-005,Team Wiki Page - Tips for Joining Veltrix (Unofficial),unofficial,internal,allow,allow,allow,allow,allow,allow,allow
+FIN-RMB-001,Expense Reimbursement Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+FIN-RMB-002,Business Travel Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+FIN-RMB-003,Relocation and Joining Expense Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+FIN-RMB-004,"Learning, Certification and Professional Membership Reimbursement Policy",approved,internal,allow,allow,allow,allow,allow,allow,allow
+FIN-RMB-005,"Corporate Card, Travel Advance and Petty Cash Policy",approved,internal,allow,allow,allow,allow,allow,allow,allow
+HR-POL-001,Leave and Holidays Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+HR-POL-002,Hybrid Work and Attendance Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+HR-POL-003,Performance Management Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+HR-POL-004,Recruitment and Selection Policy,approved,restricted,deny,allow,allow,allow,allow,allow,allow
+HR-POL-005,Employee Conduct and Disciplinary Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+IT-GDL-001,Acceptable Use of IT Resources Guideline,approved,internal,allow,allow,allow,allow,allow,allow,allow
+IT-GDL-002,"Identity, Password and Access Management Guideline",approved,internal,allow,allow,allow,allow,allow,allow,allow
+IT-GDL-003,Information Security Incident Reporting and Response Guideline,approved,internal,allow,allow,allow,allow,allow,allow,allow
+IT-GDL-004,"Data Classification, Handling and Retention Guideline",approved,internal,allow,allow,allow,allow,allow,allow,allow
+IT-GDL-005,AI Assistant and Generative AI Usage Guideline,approved,internal,allow,allow,allow,allow,allow,allow,allow
+ONB-001,New Employee Onboarding Programme (First 90 Days),approved,internal,allow,allow,allow,allow,allow,allow,allow
+ONB-002,Manager's Onboarding Responsibilities Guide,approved,restricted,deny,allow,allow,allow,allow,allow,allow
+ONB-003,IT and Access Provisioning for New Joiners,approved,internal,allow,allow,allow,allow,allow,allow,allow
+ONB-004,Probation and Confirmation Policy,approved,internal,allow,allow,allow,allow,allow,allow,allow
+ONB-005,Contractor and Intern Onboarding Procedure,approved,restricted,deny,allow,allow,allow,allow,allow,allow
+OPS-001,Procurement and Purchase Order Procedure,approved,restricted,deny,allow,allow,allow,allow,allow,allow
+OPS-002,Delegation of Authority and Approval Workflow,approved,restricted,deny,allow,allow,allow,allow,allow,allow
+OPS-003,Business Continuity and Crisis Management Procedure,approved,restricted,deny,allow,allow,allow,allow,deny,deny
+OPS-004,"Facilities, Office Access and Workplace Safety Procedure",approved,internal,allow,allow,allow,allow,allow,allow,allow
+OPS-005,Document Control and Policy Management Procedure,approved,internal,allow,allow,allow,allow,allow,allow,allow
